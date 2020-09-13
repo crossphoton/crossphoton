@@ -1,7 +1,7 @@
 <h2> Hi, I'm Aditya Agrawal! <img src="https://media1.tenor.com/images/e70ee26be0a143957d6bfd711d7b7a80/tenor.gif?itemid=11920997" width="50"></h2>
 <img align='right' src="https://cdn.dribbble.com/users/2377017/screenshots/7207001/media/7a0ce56e5dff30eaa72974a6dee5fa07.gif" width="200">
-<p><em>Under-grad Student at <a href="http://www.iiitr.ac.in">Indian Institute of Information Technology Raichur </a>
-  Check out my CV [here](https://crossphoton.github.io/cdn/CV.pdf)<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Under-grad Student at <a href="http://www.iiitr.ac.in">Indian Institute of Information Technology Raichur</a></p><p>
+  Check out my CV <a href="https://crossphoton.github.io/cdn/CV.pdf">here.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 [![Twitter: Crossphoton](https://img.shields.io/twitter/follow/cross_photon?style=social)](https://twitter.com/cross_photon)
