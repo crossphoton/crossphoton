@@ -4,7 +4,6 @@
   Check out my CV <a href="https://crossphoton.github.io/cdn/CV.pdf">here.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
-[![Twitter: Crossphoton](https://img.shields.io/twitter/follow/cross_photon?style=social)](https://twitter.com/cross_photon)
 [![Linkedin: crossphoton](https://img.shields.io/badge/-crossphoton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crossphoton/)](https://www.linkedin.com/in/crossphoton/)
 [![GitHub Crossphoton](https://img.shields.io/github/followers/crossphoton?label=follow&style=social)](https://github.com/crossphoton)
 
