@@ -1,6 +1,6 @@
-<p align=center> Hi I'm Aditya. I develop stuff which matters (atleast to me 😁) </p>
+<!-- <p align=center> Hi I'm Aditya. I develop stuff which matters (atleast to me 😁) </p> -->
 
-<p align=center> Checkout my work and feel free to ping me.</p>
+<p align=center> Checkout my work and feel free to ping.</p>
 
 <p align=center> https://crossphoton.tech
 
