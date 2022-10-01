@@ -2,7 +2,7 @@
 
 <p align=center> Checkout my work and feel free to ping.</p>
 
-<p align=center> https://crossphoton.tech
+<p align=center> https://crossphoton.github.io
 
 <div align=center>
 
